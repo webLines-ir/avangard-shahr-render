@@ -36,4 +36,4 @@ cd ..
 rm -rf dist/.git
 
 echo "Successfully deployed to gh-pages branch!"
-echo "Your site should be available at: https://your-username.github.io/an-o/"
+echo "Your site should be available at: https://your-username.github.io/avangard-shahr-render/"
